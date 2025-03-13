@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Editor.meta
+    - Assets/Editor/MeasureToolSettings.asset
+    - Assets/Editor/MeasureToolSettings.asset.meta
+    - Assets/MRTK.Generated.meta
+    - Assets/MRTK.Generated/MRTKSettings.asset
+    - Assets/MRTK.Generated/MRTKSettings.asset.meta
+    - Assets/NuGet.config
+    - Assets/NuGet.config.meta
+    - Assets/NuGet.meta
+    - Assets/NuGet/Editor.meta
+    - Assets/NuGet/Editor/NuGetForUnity.PluginAPI.dll
+    - Assets/NuGet/Editor/NuGetForUnity.PluginAPI.dll.meta
+    - Assets/NuGet/Editor/NuGetForUnity.PluginAPI.xml
+    - Assets/NuGet/Editor/NuGetForUnity.PluginAPI.xml.meta
+    - Assets/NuGet/Editor/NugetForUnity.dll
+    - Assets/NuGet/Editor/NugetForUnity.dll.meta
+    - Assets/NuGet/LICENSE
+    - Assets/NuGet/LICENSE.meta
+    - Assets/NuGet/README.pdf
+    - Assets/NuGet/README.pdf.meta
+    - Assets/NuGet/Resources.meta
+    - Assets/NuGet/Resources/defaultIcon.png
+    - Assets/NuGet/Resources/defaultIcon.png.meta
+    - Assets/Packages.meta
+    - Assets/Packages/Newtonsoft.Json.13.0.3.meta
+    - Assets/Packages/Newtonsoft.Json.13.0.3/LICENSE.md
+    - Assets/Packages/Newtonsoft.Json.13.0.3/LICENSE.md.meta
+    - Assets/Packages/Newtonsoft.Json.13.0.3/Newtonsoft.Json.nuspec
+    - Assets/Packages/Newtonsoft.Json.13.0.3/Newtonsoft.Json.nuspec.meta
+    - Assets/Packages/Newtonsoft.Json.13.0.3/README.md
+    - Assets/Packages/Newtonsoft.Json.13.0.3/README.md.meta
+    - Assets/Packages/Newtonsoft.Json.13.0.3/lib.meta
+    - Assets/Packages/Newtonsoft.Json.13.0.3/lib/net45.meta
+    - Assets/Packages/Newtonsoft.Json.13.0.3/lib/net45/Newtonsoft.Json.dll
+    - Assets/Packages/Newtonsoft.Json.13.0.3/lib/net45/Newtonsoft.Json.dll.meta
+    - Assets/Packages/Newtonsoft.Json.13.0.3/lib/net45/Newtonsoft.Json.xml
+    - Assets/Packages/Newtonsoft.Json.13.0.3/lib/net45/Newtonsoft.Json.xml.meta
+    - Assets/Packages/Newtonsoft.Json.13.0.3/packageIcon.png
+    - Assets/Packages/Newtonsoft.Json.13.0.3/packageIcon.png.meta
+    - Assets/Packages/UwpDesktop.10.0.14393.3.meta
+    - Assets/Packages/UwpDesktop.10.0.14393.3/UwpDesktop.nuspec
+    - Assets/Packages/UwpDesktop.10.0.14393.3/UwpDesktop.nuspec.meta
+    - Assets/Packages/UwpDesktop.10.0.14393.3/analyzers.meta
+    - Assets/Packages/UwpDesktop.10.0.14393.3/analyzers/dotnet.meta
+    - Assets/Packages/UwpDesktop.10.0.14393.3/analyzers/dotnet/UwpDesktopAnalyzer.dll
+    - Assets/Packages/UwpDesktop.10.0.14393.3/analyzers/dotnet/UwpDesktopAnalyzer.dll.meta
+    - Assets/Packages/websocket-sharp-latest.1.0.2.meta
+    - Assets/Packages/websocket-sharp-latest.1.0.2/lib.meta
+    - Assets/Packages/websocket-sharp-latest.1.0.2/lib/netstandard2.0.meta
+    - Assets/Packages/websocket-sharp-latest.1.0.2/lib/netstandard2.0/websocket-sharp-latest.dll
+    - Assets/Packages/websocket-sharp-latest.1.0.2/lib/netstandard2.0/websocket-sharp-latest.dll.meta
+    - Assets/Packages/websocket-sharp-latest.1.0.2/websocket-sharp-latest.nuspec
+    - Assets/Packages/websocket-sharp-latest.1.0.2/websocket-sharp-latest.nuspec.meta
+    - Assets/Packages/websocket-sharp-latest.1.0.2/websocket-sharp_icon.png
+    - Assets/Packages/websocket-sharp-latest.1.0.2/websocket-sharp_icon.png.meta
+    - Assets/Resources.meta
+    - Assets/Resources/QRCode.prefab
+    - Assets/Resources/QRCode.prefab.meta
+    - Assets/Resources/QRCodeManager.prefab
+    - Assets/Resources/QRCodeManager.prefab.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/CameraCapture.cs
+    - Assets/Scripts/CameraCapture.cs.meta
+    - Assets/Scripts/FollowUserView.cs
+    - Assets/Scripts/FollowUserView.cs.meta
+    - Assets/Scripts/MainFrameSendController.cs
+    - Assets/Scripts/MainFrameSendController.cs.meta
+    - Assets/Scripts/QRCodeManager.cs
+    - Assets/Scripts/QRCodeManager.cs.meta
+    - Assets/Scripts/VideoStreamer.cs
+    - Assets/Scripts/VideoStreamer.cs.meta
+    - Assets/TextMesh Pro.meta
+    - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    - Assets/TextMesh Pro/Fonts.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    - Assets/TextMesh Pro/Fonts/meiryo SDF.asset
+    - Assets/TextMesh Pro/Fonts/meiryo SDF.asset.meta
+    - Assets/TextMesh Pro/Fonts/meiryo.ttc
+    - Assets/TextMesh Pro/Fonts/meiryo.ttc.meta
+    - Assets/TextMesh Pro/Fonts/meiryob.ttc
+    - Assets/TextMesh Pro/Fonts/meiryob.ttc.meta
+    - Assets/TextMesh Pro/Resources.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    - Assets/TextMesh Pro/Shaders.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+    - Assets/TextMesh Pro/Sprites.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    - Assets/UnityMainThreadDispatcher.cs
+    - Assets/UnityMainThreadDispatcher.cs.meta
+    - Assets/WSATestCertificate.pfx
+    - Assets/WSATestCertificate.pfx.meta
+    - Assets/XR.meta
+    - Assets/XR/Loaders.meta
+    - Assets/XR/Loaders/Open XR Loader.asset
+    - Assets/XR/Loaders/Open XR Loader.asset.meta
+    - Assets/XR/Settings.meta
+    - Assets/XR/Settings/OpenXR Editor Settings.asset
+    - Assets/XR/Settings/OpenXR Editor Settings.asset.meta
+    - Assets/XR/Settings/OpenXR Package Settings.asset
+    - Assets/XR/Settings/OpenXR Package Settings.asset.meta
+    - Assets/XR/XRGeneralSettings.asset
+    - Assets/XR/XRGeneralSettings.asset.meta
+    - Assets/XRI.meta
+    - Assets/XRI/Settings.meta
+    - Assets/XRI/Settings/Resources.meta
+    - Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
+    - Assets/XRI/Settings/Resources/InteractionLayerSettings.asset.meta
+    - Assets/XRI/Settings/XRInteractionEditorSettings.asset
+    - Assets/XRI/Settings/XRInteractionEditorSettings.asset.meta
+    - Assets/packages.config
+    - Assets/packages.config.meta
+    - Packages/MixedReality/com.microsoft.mixedreality.openxr-1.8.1.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.accessibility-1.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.audio-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.core-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.diagnostics-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.environment-3.0.0-pre.11.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.extendedassets-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.graphicstools.unity-0.4.0.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.input-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.spatialmanipulation-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.standardassets-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.tools-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.tts.windows-1.0.1.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.uxcomponents-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.uxcomponents.noncanvas-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.uxcore-3.0.0-pre.14.tgz
+    - Packages/MixedReality/com.microsoft.mrtk.windowsspeech-3.0.0-pre.14.tgz
+    - Packages/UwpDesktop.10.0.14393.3/tools/install.ps1
+    - Packages/UwpDesktop.10.0.14393.3/tools/uninstall.ps1
+    - Packages/manifest.json
+    - Packages/manifest.json.backup
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
